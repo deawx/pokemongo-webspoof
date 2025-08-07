@@ -23,7 +23,7 @@
     "geocoder": "^0.2.2",
     "request": "^2.74.0",
     "request-promise-native": "^1.0.3",
-    "tmp": "0.0.29"
+    "tmp": "0.2.4"
   },
   "devDependencies": {
     "axios": "^0.14.0",
